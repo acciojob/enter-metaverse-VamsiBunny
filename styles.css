@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+div{
+	height:7vh;
+	background-color:black;
+	color:white;	
+	text-align:center;
+	padding-top:12px;
+}
+button:hover{
+	background:cyan;
+	
+}
